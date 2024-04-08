@@ -11,7 +11,6 @@ export default function AboutUs() {
         header={null}
         headerStyle={null}
       />
-      <Section />
     </>
   );
 }

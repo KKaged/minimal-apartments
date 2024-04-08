@@ -16,7 +16,7 @@ const Carousel = ({ images }) => {
   };
 
   return (
-    <div className="relative w-full p-24">
+    <div className="relative w-full p-20">
       <button
         className="absolute top-1/2 left-0 transform -translate-y-1/2 px-4 py-2 bg-gray-900 text-white rounded"
         onClick={handlePrev}
